@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/pre-dexed/debug/classes-ba4eeb29117f21e3de79b566581aa2bacabd815d.jar" />
+    </item>
+    <item
+        jar="/Users/mi0055/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-7febd78eab1ec11356644ca04fdc388bd4523c53.jar" />
+    </item>
+    <item
+        jar="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/pre-dexed/debug/classes-ac772afbcdbfbc86cf92cd1a7f5715b560f19e1c.jar" />
+    </item>
+    <item
+        jar="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/mi0055/AndroidStudioProjects/SimpleWeather/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ef91599c6519f16b9aae8f2485c7511e965ec86c.jar" />
+    </item>
+
+</items>
